@@ -11,7 +11,7 @@ print("Diameter of the circle is", d*3.14)
 a = int(input())
 b = int(input())
 
-print("The mean of two given numbers: a and b is", int((a + b) / 2))
+print("The mean of two given numbers: a and b is", (a + b) / 2))
 ### 4
 a = int(input())
 b = int(input())
